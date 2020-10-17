@@ -11,8 +11,8 @@
 
 ## 参考文献
 
-###  [A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2](./Refer/A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2.pdf)
+###  [A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2](./Refer/A.pdf)
 
-### [A cascaded R-CNN with multiscale attention and imbalanced samples for traffic sign detection](./Refer/A cascaded R-CNN with multiscale attention and imbalanced samples for traffic sign detection.pdf)
+### [A cascaded R-CNN wiAth multiscale attention and imbalanced samples for traffic sign detection](./Refer/B.pdf)
 
-### [Lightweight deep network for traffic sign classification. Annals of Telecommunications](./Refer/Lightweight deep network for traffic sign classification. Annals of Telecommunications.pdf)
+### [Lightweight deep network for traffic sign classification. Annals of Telecommunications](./Refer/C.pdf)
